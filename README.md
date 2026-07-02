@@ -1,2 +1,2 @@
 # gym-progress-platform
-Production-style platform infrastructure for deploying applications to AWS using Terraform, EKS, Helm, ArgoCD and GitHub Actions
+A production-style DevOps platform demonstrating Infrastructure as Code, Kubernetes, GitOps, CI/CD, observability and AWS best practices.
